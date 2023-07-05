@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="stateTamagochi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/stateTamagochi.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
